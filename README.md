@@ -8,7 +8,9 @@ This is the video that had started my journey into easily understanding LLM's. I
 **Prompting**
 
 
-**Ai Tools**
 
-Huge Resource:
+**Ai Tools**
+https://galvanized-rocket-e2a.notion.site/AI-Tools-Review-1615909a815680519682f3277aabc21f?pvs=4
+
+**Huge Resource:**
 https://github.com/henrythe9th/AI-Crash-Course
