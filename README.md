@@ -1,5 +1,5 @@
 # LearningAI-MyJourney
-My name is Sky - https://www.linkedin.com/in/skychew/  and this is my brain dump of all the places I have learned AI that is useful to document.
+My name is <a href="https://www.linkedin.com/in/skychew/"> Sky </a> and this is my brain dump of all the places I have learned AI that is useful to document.
 
 LLM's
 This is the video that had started my journey into easily understanding LLM's 
