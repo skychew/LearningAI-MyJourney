@@ -7,7 +7,7 @@ WIP
 **TECHNICAL**
 Some of this technical papers might be more interesting to study it using <a href="https://notebooklm.google"> NotebookLM.google.com</a> > Audio overview feature
 
-Foundational Modelling:
+Foundational Modelling:</br>
 <a href="https://arxiv.org/pdf/1706.03762"> Transformers* </a> (foundation, self-attention) - 2017
 
 
