@@ -1,6 +1,11 @@
 # LearningAI-MyJourney
 My name is <a href="https://www.linkedin.com/in/skychew/"> Sky </a> and this is my brain dump of all the places I have learned AI that is useful to document.
 
+
+**For Non-Technical Managers**
+
+
+**TECHNICAL**
 **LLM**
 This is the video that had started my journey into easily understanding LLM's. It covers the core concept up to the success of GPT3 the begining of the AI popularity.
 <a href="https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi"> But what is a neural network? (3Blue1Brown)</a>
