@@ -5,7 +5,7 @@ I am <a href="https://www.linkedin.com/in/skychew/">Sky</a> this is the brain du
 WIP
 
 **TECHNICAL**
-Some of this technical papers might be more interesting to study it using NotebookLM.google.com > Audio overview feature
+Some of this technical papers might be more interesting to study it using <a href="https://notebooklm.google"> NotebookLM.google.com</a> > Audio overview feature
 
 Foundational Modelling:
 <a href="https://arxiv.org/pdf/1706.03762"> Transformers* </a> (foundation, self-attention) - 2017
