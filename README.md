@@ -1,7 +1,7 @@
 # LearningAI-MyJourney (WIP)
 I am <a href="https://www.linkedin.com/in/skychew/">Sky</a> this is the brain dump of my AI learning resources that is useful to document. 
 
-**For Non-Technical Managers**
+**For Non-Technical Managers**</br>
 WIP
 
 **TECHNICAL**</br>
