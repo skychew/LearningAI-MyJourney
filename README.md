@@ -5,6 +5,11 @@ I am <a href="https://www.linkedin.com/in/skychew/">Sky</a> this is the brain du
 WIP
 
 **TECHNICAL**
+Some of this technical papers might be more interesting to study it using NotebookLM.google.com > Audio overview feature
+
+Foundational Modelling:
+<a href="https://arxiv.org/pdf/1706.03762"> Transformers* </a> (foundation, self-attention) - 2017
+
 
 **LLM**
 
@@ -17,6 +22,8 @@ This is the video that had started my journey into easily understanding LLM's. I
 
 **Ai Tools**
 https://galvanized-rocket-e2a.notion.site/AI-Tools-Review-1615909a815680519682f3277aabc21f?pvs=4
+
+
 
 **Huge Resource:**
 https://github.com/henrythe9th/AI-Crash-Course
