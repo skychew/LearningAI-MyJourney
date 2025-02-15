@@ -4,8 +4,8 @@ I am <a href="https://www.linkedin.com/in/skychew/">Sky</a> this is the brain du
 **For Non-Technical Managers**
 WIP
 
-**TECHNICAL**
-Some of this technical papers might be more interesting to study it using <a href="https://notebooklm.google"> NotebookLM.google.com</a> > Audio overview feature
+**TECHNICAL**</br>
+Papers might be more interesting to study it using <a href="https://notebooklm.google"> NotebookLM.google.com</a> > Audio overview feature
 
 Foundational Modelling:</br>
 <a href="https://arxiv.org/pdf/1706.03762"> Transformers* </a> (foundation, self-attention) - 2017
@@ -23,7 +23,7 @@ This is the video that had started my journey into easily understanding LLM's. I
 **Ai Tools**
 https://galvanized-rocket-e2a.notion.site/AI-Tools-Review-1615909a815680519682f3277aabc21f?pvs=4
 
-
+**AI automation**</br>
 
 **Huge Resource:**
 https://github.com/henrythe9th/AI-Crash-Course
