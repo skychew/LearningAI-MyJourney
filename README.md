@@ -1,9 +1,9 @@
-# LearningAI-MyJourney
+# LearningAI-MyJourney (WIP)
 My name is <a href="https://www.linkedin.com/in/skychew/"> Sky </a> and this is my brain dump of all the places I have learned AI that is useful to document.
 
 
 **For Non-Technical Managers**
-
+WIP
 
 **TECHNICAL**
 **LLM**
