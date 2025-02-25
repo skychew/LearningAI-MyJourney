@@ -20,11 +20,17 @@ This is the video that had started my journey into easily understanding LLM's. I
 <a href="https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi"> But what is a neural network? (3Blue1Brown)</a>
 
 
-**Ai Tools**</br>
+**AI Tools**</br>
 https://galvanized-rocket-e2a.notion.site/AI-Tools-Review-1615909a815680519682f3277aabc21f?pvs=4
 
 **AI automation**</br>
-AirOps, Clay, n8n, Zapier, Retool, Gumloop
+AirOps
+Clay
+n8n
+Zapier
+Retool
+Gumloop
+[APIFY](https://apify.com/)
 
 **Huge Resource:**</br>
 https://github.com/henrythe9th/AI-Crash-Course
