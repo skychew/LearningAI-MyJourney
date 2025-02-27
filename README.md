@@ -48,11 +48,16 @@ Can Code:</br>
 AI IDE tools</br>
 [Cursor](https://www.cursor.com/)</br>
 [Windsurf](https://codeium.com/windsurf)</br>
-If you can't Code: </br>
+</br>
+Can Design:</br>
+[https://www.dora.run/](https://www.dora.run/) Combine this with Figma and Framer.</br>
+</br>
+Can't Code: </br>
 [https://lovable.dev/ (best performing)](https://lovable.dev/)</br>
 [https://bolt.new/](https://bolt.new/)</br>
 [https://replit.com/](https://replit.com/)</br>
 </br>
+
 
 **Huge Resource:**</br>
 https://github.com/henrythe9th/AI-Crash-Course
