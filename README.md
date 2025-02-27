@@ -2,10 +2,10 @@
 I am <a href="https://www.linkedin.com/in/skychew/">Sky</a> this is the brain dump of my AI learning resources that is useful to document. 
 
 **For Non-Technical Managers**</br>
-Starting with Keywords is useful
-Transformers
-LLMS
-Agents
+Starting with Keywords is useful</br>
+Transformers,
+LLMS,
+Agents,
 Prompting
 
 **TECHNICAL**</br>
