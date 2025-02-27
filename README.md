@@ -2,7 +2,11 @@
 I am <a href="https://www.linkedin.com/in/skychew/">Sky</a> this is the brain dump of my AI learning resources that is useful to document. 
 
 **For Non-Technical Managers**</br>
-WIP
+Starting with Keywords is useful
+Transformers
+LLMS
+Agents
+Prompting
 
 **TECHNICAL**</br>
 Papers might be more interesting to study it using <a href="https://notebooklm.google"> NotebookLM.google.com</a> > Audio overview feature
