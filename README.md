@@ -34,5 +34,9 @@ Gumloop
 Combinations:
 Apify,Make,Airtable
 
+**Build your own Agent**
+https://www.anthropic.com/research/building-effective-agents
+
 **Huge Resource:**</br>
 https://github.com/henrythe9th/AI-Crash-Course
+
