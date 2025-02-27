@@ -42,7 +42,17 @@ Apify,Make,Airtable
 [https://www.anthropic.com/research/building-effective-agents](https://www.anthropic.com/research/building-effective-agents)</br>
 Useful thought/example: Given that Perplexity operates using a search model to answer user questions with sources, this aligns more closely with a "workflow" where the steps are largely pre-defined. While the specific search queries and information retrieved may vary, the overall process of search, retrieval, and summarization follows a structured path. It probably does not have the autonomy to dynamically change its process or tool usage in a completely self-directed manner.
 
-
+**Build webapp with AI**</br>
+More details on my review here</br>
+Can Code:</br>
+AI IDE tools</br>
+[Cursor](https://www.cursor.com/)</br>
+[Windsurf](https://codeium.com/windsurf)</br>
+If you can't Code: </br>
+[https://lovable.dev/ (best performing)](https://lovable.dev/)</br>
+[https://bolt.new/](https://bolt.new/)</br>
+[https://replit.com/](https://replit.com/)</br>
+</br>
 
 **Huge Resource:**</br>
 https://github.com/henrythe9th/AI-Crash-Course
