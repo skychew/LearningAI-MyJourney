@@ -39,7 +39,7 @@ Combinations:
 Apify,Make,Airtable
 
 **Build your own Agent**
-https://www.anthropic.com/research/building-effective-agents
+[https://www.anthropic.com/research/building-effective-agents](https://www.anthropic.com/research/building-effective-agents)</br>
 Useful thought/example: Given that Perplexity operates using a search model to answer user questions with sources, this aligns more closely with a "workflow" where the steps are largely pre-defined. While the specific search queries and information retrieved may vary, the overall process of search, retrieval, and summarization follows a structured path. It probably does not have the autonomy to dynamically change its process or tool usage in a completely self-directed manner.
 
 
