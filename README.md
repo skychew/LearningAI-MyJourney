@@ -1,4 +1,4 @@
-# LearningAI-MyJourney (WIP)
+# LearningAI-MyJourney (Work in progress)
 I am <a href="https://www.linkedin.com/in/skychew/">Sky</a> this is the brain dump of my AI learning resources that is useful to document. 
 
 **For Non-Technical Managers**</br>
@@ -43,7 +43,7 @@ Apify,Make,Airtable
 Useful thought/example: Given that Perplexity operates using a search model to answer user questions with sources, this aligns more closely with a "workflow" where the steps are largely pre-defined. While the specific search queries and information retrieved may vary, the overall process of search, retrieval, and summarization follows a structured path. It probably does not have the autonomy to dynamically change its process or tool usage in a completely self-directed manner.
 
 **Build webapp with AI**</br>
-More details on my review here</br>
+More details on my review here (Link Coming Soon)</br>
 Can Code:</br>
 AI IDE tools</br>
 [Cursor](https://www.cursor.com/)</br>
