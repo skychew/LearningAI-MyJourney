@@ -4,15 +4,15 @@
 Hi, I'm [Sky](https://www.linkedin.com/in/skychew/). This is my brain dump of useful AI learning resources.
 
 ---
-## For Non-Technical Managers (WIP)
-Starting with glossary helps.
-
+## For Non-Technical Managers
+Starting with glossary helps. I will add content with the context for Non-technical managers long the way. if there is something that is specific will be shared here.
 
 ---
 ## Technical Resources
+- Use [NotebookLM](https://notebooklm.google) for studying papers (Audio Overview feature)
+
 ### Foundational Modelling
 - [Transformers*](https://arxiv.org/pdf/1706.03762) (self-attention, foundation) - 2017
-- Use [NotebookLM](https://notebooklm.google) for studying papers (Audio Overview feature)
 
 ### Prompting
 - [Master Prompt Generator](https://www.deepwritingai.com/p/master-prompt-generator-ai) (Perplexity-reviewed best solution as of Feb 2025)
