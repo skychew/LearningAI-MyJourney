@@ -23,7 +23,6 @@ Prompting<br>
 This is the video that had started my journey into easily understanding LLM's. It covers the core concept up to the success of GPT3 the begining of the AI popularity.</br>
 <a href="https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi"> But what is a neural network? (3Blue1Brown)</a>
 
-
 **AI Tools**</br>
 https://galvanized-rocket-e2a.notion.site/AI-Tools-Review-1615909a815680519682f3277aabc21f?pvs=4
 
@@ -38,8 +37,25 @@ Gumloop
 Combinations:
 Apify,Make,Airtable
 
-**Build your own Agent**
+**Build Effective Agents**
 [https://www.anthropic.com/research/building-effective-agents](https://www.anthropic.com/research/building-effective-agents)</br>
+[My summary for non-tech managers ](https://skychew.com/anthropic-building-effective-agents-summary-for-non-tech-managers/)</br>
+It helps answer these questions:</br>
+- What distinguishes AI agents from traditional automation tools?
+- How do agentic systems align with existing business processes?
+- What operational gaps can AI agents address in my industry?
+- How mature are current AI solutions for business use cases?
+- What are the hidden costs of AI adoption?
+- How can we ensure ethical AI deployment?
+- What KPIs indicate effective AI agent integration?
+- How will AI agents evolve in the next 3-5 years?
+- The article provides actionable insights into:
+
+Identifying automation-worthy processes
+Selecting implementation patterns matched to business needs
+Building human-AI collaboration frameworks
+Establishing metrics for continuous improvement
+
 Useful thought/example: Given that Perplexity operates using a search model to answer user questions with sources, this aligns more closely with a "workflow" where the steps are largely pre-defined. While the specific search queries and information retrieved may vary, the overall process of search, retrieval, and summarization follows a structured path. It probably does not have the autonomy to dynamically change its process or tool usage in a completely self-directed manner.
 
 **Build webapp with AI**</br>
