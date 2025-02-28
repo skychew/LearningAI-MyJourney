@@ -35,8 +35,8 @@ Starting with glossary helps. I will add content with the context for Non-techni
 - [My Summary for Non-Tech Managers](https://skychew.com/anthropic-building-effective-agents-summary-for-non-tech-managers/)
 
 ### **Key Questions Answered:**
--- How do AI agents differ from traditional automation?
--- How do they align with business processes?
+- How do AI agents differ from traditional automation?
+ How do they align with business processes?
 - What operational gaps can AI agents address?
 - What are the hidden costs of AI adoption?
 - How can we ensure ethical AI deployment?
