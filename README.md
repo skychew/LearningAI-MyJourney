@@ -4,12 +4,9 @@
 Hi, I'm [Sky](https://www.linkedin.com/in/skychew/). This is my brain dump of useful AI learning resources.
 
 ---
-## For Non-Technical Managers
-Starting with keywords helps:
-- Transformers
-- LLMs
-- Agents
-- Prompting
+## For Non-Technical Managers (WIP)
+Starting with glossary helps.
+
 
 ---
 ## Technical Resources
