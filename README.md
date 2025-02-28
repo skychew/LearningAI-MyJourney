@@ -15,8 +15,9 @@ Foundational Modelling:</br>
 <a href="https://arxiv.org/pdf/1706.03762"> Transformers* </a> (foundation, self-attention) - 2017
 
 Prompting<br>
-Use this guide to automatically generate your prompts directly from your Ai bot instead of using another AI to generate them.
+Use this guide to automatically generate your prompts directly from your Ai bot instead of using another AI to generate them.This is reviewed by perplexity to be the best solution as of Feb 2025:
 [https://www.deepwritingai.com/p/master-prompt-generator-ai](https://www.deepwritingai.com/p/master-prompt-generator-ai)
+
 Technical read:
 <a href="https://arxiv.org/pdf/2406.06608">The Prompt Report: A Systematic Survey of Prompting Techniques</a>
 
