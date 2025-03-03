@@ -66,7 +66,7 @@ Perplexity AI follows a structured search-retrieval-summarization workflow rathe
 - [Bolt](https://bolt.new/)
 - [Replit](https://replit.com/)
 
-[More details on my review (Coming Soon)]
+[Read Here](https://skychew.com/build-webapps-with-ai/) on how I built a life astronomy calculator webapp in 2 days using lovable
 
 ---
 ## Huge Resource
