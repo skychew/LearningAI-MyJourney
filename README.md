@@ -25,9 +25,16 @@ Starting with glossary helps. I will add content with the context for Non-techni
 ## AI Tools
 - [AI Tools Review](https://galvanized-rocket-e2a.notion.site/AI-Tools-Review-1615909a815680519682f3277aabc21f?pvs=4)
 
-### AI Automation
-- **General:** AirOps, Clay, n8n, Zapier, Retool, Gumloop
-- **Data Scraping & Workflow:** [Apify](https://apify.com/), Make, Airtable
+### AI Automation (Workflows)
+- AirOps
+- Clay
+- n8n
+- Zapier
+- Retool
+- Gumloop
+- [Apify](https://apify.com/)
+- Make
+- Airtable
 
 ---
 ## Building Effective AI Agents
