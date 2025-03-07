@@ -10,6 +10,7 @@ Starting with glossary helps. I will add content with the context for Non-techni
 ---
 ## Technical Resources
 - Use [NotebookLM](https://notebooklm.google) for studying papers (Audio Overview feature)
+- or use [https://www.turbolearn.ai/](https://www.turbolearn.ai/)
 
 ### Foundational Modelling
 - [Transformers*](https://arxiv.org/pdf/1706.03762) (self-attention, foundation) - 2017
