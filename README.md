@@ -31,6 +31,7 @@ I have a habit of putting things in boxes to simplifying understanding and learn
 
 ## AI Tools
 - [AI Tools Review](https://galvanized-rocket-e2a.notion.site/AI-Tools-Review-1615909a815680519682f3277aabc21f?pvs=4)
+- [https://aitoolsdirectory.com/](https://aitoolsdirectory.com/)
 
 ### AI Automation (Workflows)
 - AirOps
