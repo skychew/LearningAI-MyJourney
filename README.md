@@ -17,6 +17,8 @@ Starting with glossary helps. I will add content with the context for Non-techni
 ### Prompting
 - [Master Prompt Generator](https://www.deepwritingai.com/p/master-prompt-generator-ai) (Perplexity-reviewed best solution as of Feb 2025)
 - [The Prompt Report: Systematic Survey of Prompting Techniques](https://arxiv.org/pdf/2406.06608)
+- but if you still prefer to use a tool
+- [prompt-genie.com](https://www.prompt-genie.com/)
 
 ### LLMs
 - [But what is a neural network? (3Blue1Brown)](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) (Intro to LLMs, covers up to GPT-3)
@@ -45,6 +47,7 @@ I have a habit of putting things in boxes to simplifying understanding and learn
 ## Building Effective AI Agents
 - [Anthropic: Building Effective Agents](https://www.anthropic.com/research/building-effective-agents)
 - [My Summary for Non-Tech Managers](https://skychew.com/anthropic-building-effective-agents-summary-for-non-tech-managers/)
+- [Building AI Agents](https://github.com/Shubhamsaboo/awesome-llm-apps?tab=readme-ov-file)
 
 ### **Key Questions Answered:**
 - How do AI agents differ from traditional automation?
