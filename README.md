@@ -24,6 +24,7 @@ Starting with glossary helps. I will add content with the context for Non-techni
 ---
 ## AI CLASSIFICATION
 I have a habit of putting things in boxes to simplifying understanding and learning. Here is my attempt to put AI into boxes. I use this for my review of the tools.
+
 [https://skychew.com/classifying-ai-solutions-agent-agentic-actors-workflows/](https://skychew.com/classifying-ai-solutions-agent-agentic-actors-workflows/)
 
 ## AI Tools
