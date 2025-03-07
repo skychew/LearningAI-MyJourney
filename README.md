@@ -52,7 +52,8 @@ I have a habit of putting things in boxes to simplifying understanding and learn
 - [My Summary for Non-Tech Managers](https://skychew.com/anthropic-building-effective-agents-summary-for-non-tech-managers/)
 - [Building AI Agents](https://github.com/Shubhamsaboo/awesome-llm-apps?tab=readme-ov-file)
 - [https://block.github.io/goose/](https://block.github.io/goose/) - Your on-machine AI agent, automating engineering tasks seamlessly. Customize goose with your preferred LLM and enhance its capabilities by connecting it to any external MCP server or API. Made by Twitter ex-founders.
-
+- [https://pinokio.computer/](https://pinokio.computer/) - ​Pinokio is a specialized browser designed to simplify the installation, execution, and management of various applications on your computer.
+- 
 ### **Key Questions Answered:**
 - How do AI agents differ from traditional automation?
  How do they align with business processes?
