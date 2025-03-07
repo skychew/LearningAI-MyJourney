@@ -22,6 +22,10 @@ Starting with glossary helps. I will add content with the context for Non-techni
 - [But what is a neural network? (3Blue1Brown)](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) (Intro to LLMs, covers up to GPT-3)
 
 ---
+## AI CLASSIFICATION
+I have a habit of putting things in boxes to simplifying understanding and learning. Here is my attempt to put AI into boxes. I use this for my review of the tools.
+[https://skychew.com/classifying-ai-solutions-agent-agentic-actors-workflows/](https://skychew.com/classifying-ai-solutions-agent-agentic-actors-workflows/)
+
 ## AI Tools
 - [AI Tools Review](https://galvanized-rocket-e2a.notion.site/AI-Tools-Review-1615909a815680519682f3277aabc21f?pvs=4)
 
