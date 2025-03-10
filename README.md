@@ -27,25 +27,13 @@ Why is Deepseek so interesting? Deep Seek = $6 Million dollar 30x Cheaper than G
 
 ---
 ## AI CLASSIFICATION
-I have a habit of putting things in boxes to simplifying understanding and learning. Here is my attempt to put AI into boxes. I use this for my review of the tools.
+I have a habit of putting things in boxes to simplifying learning. Here is my attempt to put AI into boxes. I use this for my reviews of AI tools as well.
+[https://skychew.com/learning-ai-through-classifications/](https://skychew.com/learning-ai-through-classifications/)
 
-[https://skychew.com/classifying-ai-solutions-agent-agentic-actors-workflows/](https://skychew.com/classifying-ai-solutions-agent-agentic-actors-workflows/)
-
-## AI Solutions
+## List of AI Solutions
 - [https://skychew.com/ai-ecosystem-list/](https://skychew.com/ai-ecosystem-list/)
 - [https://aitoolsdirectory.com/](https://aitoolsdirectory.com/)
 - Multiple AI - [https://www.ninjachat.ai/](https://www.ninjachat.ai/)
-
-### AI Automation (Workflows)
-- AirOps
-- Clay
-- n8n
-- Zapier
-- Retool
-- Gumloop
-- [Apify](https://apify.com/)
-- Make
-- Airtable
 
 ---
 ## Building Your Own AI Agents
@@ -75,6 +63,8 @@ Perplexity AI follows a structured search-retrieval-summarization workflow rathe
 
 ---
 ## Building AI-Powered Web Apps
+[Read Here](https://skychew.com/build-webapps-with-ai/) on how I built a life astronomy calculator webapp in 2 days using lovable
+
 ### AI IDE Tools (Can Code)
 - [Cursor](https://www.cursor.com/)
 - [Windsurf](https://codeium.com/windsurf)
@@ -86,8 +76,6 @@ Perplexity AI follows a structured search-retrieval-summarization workflow rathe
 - [Lovable.dev (Best Performing)](https://lovable.dev/)
 - [Bolt](https://bolt.new/)
 - [Replit](https://replit.com/)
-
-[Read Here](https://skychew.com/build-webapps-with-ai/) on how I built a life astronomy calculator webapp in 2 days using lovable
 
 ---
 ## Huge Resource
