@@ -31,8 +31,8 @@ I have a habit of putting things in boxes to simplifying understanding and learn
 
 [https://skychew.com/classifying-ai-solutions-agent-agentic-actors-workflows/](https://skychew.com/classifying-ai-solutions-agent-agentic-actors-workflows/)
 
-## AI Tools
-- [AI Tools Review](https://galvanized-rocket-e2a.notion.site/AI-Tools-Review-1615909a815680519682f3277aabc21f?pvs=4)
+## AI Solutions
+- [https://skychew.com/ai-ecosystem-list/](https://skychew.com/ai-ecosystem-list/)
 - [https://aitoolsdirectory.com/](https://aitoolsdirectory.com/)
 - Multiple AI - [https://www.ninjachat.ai/](https://www.ninjachat.ai/)
 
