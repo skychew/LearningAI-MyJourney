@@ -95,35 +95,50 @@ Perplexity AI follows a structured search-retrieval-summarization workflow rathe
 
 ---
 ## Hardware
-- Raspberry PI AI HAT+ 
+- Raspberry PI AI HAT+
+  
 ---
 ## AI Glossary for Non-Technical Managers
 
-1. **Machine Learning (ML)** – A type of AI that enables computers to learn from data and improve performance over time without being explicitly programmed.  
-2. **Deep Learning** – A subset of ML that uses neural networks with multiple layers to analyze complex data like images, speech, and text.  
-3. **Neural Networks** – A system of algorithms inspired by the human brain that helps AI recognize patterns and relationships in data.  
-4. **Generative AI** – AI models that can create new content, such as text, images, music, or code, based on patterns learned from existing data.  
-5. **Natural Language Processing (NLP)** – The AI capability that allows computers to understand, interpret, and respond to human language.  
-6. **Computer Vision** – AI technology that enables computers to analyze and interpret visual information from images or videos.  
-7. **Reinforcement Learning (RL)** – An AI training method where models learn by trial and error, receiving rewards for good decisions.  
-8. **Foundation Models** – Large AI models trained on vast datasets that serve as the base for many AI applications, like GPT and BERT.  
-9. **Fine-Tuning** – The process of refining a pre-trained AI model with specific data to improve its performance for a particular task.  
-10. **Zero-shot Learning** – The ability of an AI model to perform tasks without prior examples, using general knowledge to make predictions.  
-11. **Few-shot Learning** – When an AI model learns new tasks with only a small amount of example data.  
-12. **Multimodal AI** – AI that can process and integrate multiple types of data, such as text, images, and audio, simultaneously.  
-13. **Vector Databases** – A specialized type of database optimized for storing and retrieving high-dimensional data, commonly used in AI search and retrieval.  
-14. **Embedding** – A numerical representation of words, images, or other data types that AI models use to understand relationships.  
-15. **Inference** – The process where an AI model makes predictions or decisions based on new input data.  
-16. **Tokenization** – The method of breaking down text into smaller pieces (tokens) to be processed by AI models.  
-17. **Bias in AI** – The tendency of AI models to produce skewed or unfair results due to imbalances in training data.  
-18. **Hallucination (in AI)** – When an AI model generates incorrect or misleading responses that sound plausible but are factually incorrect.  
-19. **Autonomous Agents** – AI systems that can independently perform tasks, make decisions, and adapt to their environment.  
-20. **Orchestration (AI Workflows)** – The coordination of multiple AI tools and processes to complete complex tasks efficiently.  
-21. **Explainable AI (XAI)** – Techniques that make AI models more transparent, helping humans understand how they arrive at decisions.  
-22. **Synthetic Data** – Artificially generated data used to train AI models when real-world data is limited or sensitive.  
-23. **RAG (Retrieval-Augmented Generation)** – A hybrid AI approach that enhances generative AI by retrieving relevant information from external sources before generating responses.  
-24. **AI Ethics** – The study and implementation of responsible AI practices to prevent harm, bias, and misuse.  
-25. **Edge AI** – Running AI models on local devices (like smartphones or IoT devices) instead of relying on cloud-based processing.  
+### **1. Fundamentals of AI & Machine Learning**
+- **Artificial Intelligence (AI)** – Machines that perform tasks requiring human intelligence.
+- **Machine Learning (ML)** – AI that improves performance by learning from data.
+- **Deep Learning** – A subset of ML using multi-layered neural networks.
+- **Neural Networks** – Algorithms inspired by the human brain for pattern recognition.
+- **Inference** – AI making predictions or decisions from input data.
+- **Tokenization** – Breaking text into smaller pieces for AI processing.
+
+### **2. AI Model Development & Training**
+- **Weights & Biases (W&B)** – A tool for tracking ML experiments, hyperparameters, and performance.
+- **Foundation Models** – Large pre-trained AI models like GPT and BERT.
+- **Fine-Tuning** – Customizing a pre-trained AI model with new data.
+- **Zero-shot Learning** – AI performing tasks without prior examples.
+- **Few-shot Learning** – AI learning new tasks from minimal data.
+- **Multimodal AI** – AI processing text, images, and audio together.
+
+### **3. AI Applications & Techniques**
+- **Generative AI** – AI creating new content like text and images.
+- **Retrieval-Augmented Generation (RAG)** – Enhancing generative AI by retrieving external information.
+- **Natural Language Processing (NLP)** – AI understanding and responding to human language.
+- **Computer Vision** – AI analyzing visual information from images/videos.
+- **Reinforcement Learning (RL)** – AI learning by trial and error.
+
+### **4. AI Automation & Autonomous Agents**
+- **Autonomous Agents** – AI that acts independently to complete tasks.
+- **AI Orchestration (Workflows)** – Coordinating multiple AI tools to execute complex tasks.
+- **Prompt Engineering** – Designing prompts for better AI responses.
+
+### **5. Data & Infrastructure for AI**
+- **Vector Databases** – Optimized databases for AI search and retrieval.
+- **Synthetic Data** – Artificial data for AI training.
+- **Edge AI** – Running AI models on local devices instead of the cloud.
+
+### **6. AI Trust, Ethics & Limitations**
+- **Explainable AI (XAI)** – Making AI decisions transparent.
+- **Bias in AI** – AI producing skewed results due to training data imbalances.
+- **Hallucination (in AI)** – AI generating misleading or incorrect responses.
+- **AI Ethics** – Ensuring responsible AI use.
+- **Adversarial Attacks** – Manipulating AI by feeding it misleading data. 
 
 ---
 More updates coming soon!
