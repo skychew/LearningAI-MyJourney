@@ -39,7 +39,7 @@ I have a habit of putting things in boxes to simplifying learning. Here is my at
 ## Building Your Own AI Agents
 - [Anthropic: Building Effective Agents](https://www.anthropic.com/research/building-effective-agents)
 - [My Summary for Non-Tech Managers](https://skychew.com/anthropic-building-effective-agents-summary-for-non-tech-managers/)
-- [Awesome AI Agents, RAGS, LLMs](https://github.com/Shubhamsaboo/awesome-llm-apps?tab=readme-ov-file)
+- [Awesome AI Agents, RAGS, LLMs](https://github.com/Shubhamsaboo/awesome-llm-apps?tab=readme-ov-file) - A curated collection of awesome LLM apps built with RAG and AI agents. This repository features LLM apps that use models from OpenAI, Anthropic, Google, and open-source models like DeepSeek, Qwen or Llama that you can run locally on your computer.
 - [https://block.github.io/goose/](https://block.github.io/goose/) - Your on-machine AI agent, automating engineering tasks seamlessly. Customize goose with your preferred LLM and enhance its capabilities by connecting it to any external MCP server or API. Made by Twitter ex-founders.
 - [https://pinokio.computer/](https://pinokio.computer/) - ​Pinokio is a specialized browser designed to simplify the installation, execution, and management of various applications on your computer.
 - 
@@ -57,9 +57,6 @@ I have a habit of putting things in boxes to simplifying learning. Here is my at
 - Matching implementation patterns to business needs
 - Building human-AI collaboration frameworks
 - Establishing continuous improvement metrics
-
-###**Example Thought:**
-Perplexity AI follows a structured search-retrieval-summarization workflow rather than dynamically changing its process autonomously.
 
 ---
 ## Building AI-Powered Web Apps
