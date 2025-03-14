@@ -42,7 +42,8 @@ I have a habit of putting things in boxes to simplifying learning. Here is my at
 - [Awesome AI Agents, RAGS, LLMs](https://github.com/Shubhamsaboo/awesome-llm-apps?tab=readme-ov-file) - A curated collection of awesome LLM apps built with RAG and AI agents. This repository features LLM apps that use models from OpenAI, Anthropic, Google, and open-source models like DeepSeek, Qwen or Llama that you can run locally on your computer.
 - [https://block.github.io/goose/](https://block.github.io/goose/) - Your on-machine AI agent, automating engineering tasks seamlessly. Customize goose with your preferred LLM and enhance its capabilities by connecting it to any external MCP server or API. Made by Twitter ex-founders.
 - [https://pinokio.computer/](https://pinokio.computer/) - ​Pinokio is a specialized browser designed to simplify the installation, execution, and management of various applications on your computer.
-- 
+- [https://huggingface.co/](https://huggingface.co/)
+  
 ### **Key Questions Answered:**
 - How do AI agents differ from traditional automation?
  How do they align with business processes?
