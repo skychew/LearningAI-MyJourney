@@ -5,9 +5,8 @@ Hi, I'm [Sky](https://www.linkedin.com/in/skychew/). This is my brain dump of us
 
 ---
 ## For Non-Technical Managers
-Starting with glossary helps. I will add content with the context for Non-technical managers long the way. if there is something that is specific will be shared here.
-
-Why is Deepseek so interesting? Deep Seek = $6 Million dollar 30x Cheaper than GPT 4o
+Starting with glossary helps.
+[State of AI - Cutting through the hype](https://skychew.com/state-of-ai-cutting-through-the-hype/)
 
 ---
 ## Technical Resources
