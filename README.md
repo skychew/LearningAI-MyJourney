@@ -76,7 +76,7 @@ I have a habit of putting things in boxes to simplifying learning. Here is my at
 - [Replit](https://replit.com/)
 
 ---
-##Industry Specific applications
+## Industry Specific applications
 The retailer Old Navy is partnering with Radar, a tech company that uses RFID, AI, and computer vision to [track inventory in real time](https://qz.com/gap-old-navy-ai-tech-taco-bell-nvidia-retail-1851772472).
 
 ---
