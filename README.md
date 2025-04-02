@@ -26,9 +26,12 @@ Starting with glossary helps.
 - [But what is a neural network? (3Blue1Brown)](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) (Intro to LLMs, covers up to GPT-3)
 
 ---
+
 ## AI CLASSIFICATION
 I have a habit of putting things in boxes to simplifying learning. Here is my attempt to put AI into boxes. I use this for my reviews of AI tools as well.
 [https://skychew.com/learning-ai-through-classifications/](https://skychew.com/learning-ai-through-classifications/)
+
+---
 
 ## List of AI Solutions
 - [https://skychew.com/ai-ecosystem-list/](https://skychew.com/ai-ecosystem-list/)
@@ -36,6 +39,7 @@ I have a habit of putting things in boxes to simplifying learning. Here is my at
 - Multiple AI - [https://www.ninjachat.ai/](https://www.ninjachat.ai/)
 
 ---
+
 ## Building Your Own AI Agents
 - [Anthropic: Building Effective Agents](https://www.anthropic.com/research/building-effective-agents)
 - [My Summary for Non-Tech Managers](https://skychew.com/anthropic-building-effective-agents-summary-for-non-tech-managers/)
