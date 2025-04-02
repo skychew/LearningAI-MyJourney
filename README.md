@@ -1,7 +1,6 @@
 # LearningAI-MyJourney
 Last update - 2 Apr
 
-## About
 Hi, I'm [Sky](https://www.linkedin.com/in/skychew/). This is my brain dump of useful AI learning resources.
 
 ---
