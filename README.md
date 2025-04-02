@@ -1,4 +1,4 @@
-# LearningAI-MyJourney (Continued improvement)
+# LearningAI-MyJourney
 Last update - 2 Apr
 
 ## About
