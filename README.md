@@ -91,7 +91,7 @@ The retailer Old Navy is partnering with Radar, a tech company that uses RFID, A
 ## Hardware
 - Raspberry PI AI HAT+
 
-## Learning AI Agents ([Source](https://www.linkedin.com/posts/jimmyacton_2025-is-the-year-of-ai-agents-and-there-activity-7312356729273397249-hU1j?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAo_Z8oBSo7gQNXstuCb6-dhbGls4EPM9e4))
+## GenAI & RAG ([Source](https://www.linkedin.com/posts/jimmyacton_2025-is-the-year-of-ai-agents-and-there-activity-7312356729273397249-hU1j?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAo_Z8oBSo7gQNXstuCb6-dhbGls4EPM9e4))
 Here is a powerful collection of free resources to help you dive into AI agents 👇
 
 - 🔹 Generative AI for everyone: https://lnkd.in/d8kGVA29
