@@ -90,21 +90,7 @@ The retailer Old Navy is partnering with Radar, a tech company that uses RFID, A
 ---
 ## Hardware
 - Raspberry PI AI HAT+
-
-## GenAI & RAG ([Source](https://www.linkedin.com/posts/jimmyacton_2025-is-the-year-of-ai-agents-and-there-activity-7312356729273397249-hU1j?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAo_Z8oBSo7gQNXstuCb6-dhbGls4EPM9e4))
-Here is a powerful collection of free resources to help you dive into AI agents 👇
-
-- 🔹 Generative AI for everyone: https://lnkd.in/d8kGVA29
-- 🔹 Getting started with LLMs: https://lnkd.in/dJ-dJY2q
-- 🔹 Prompt engineering for VLMS: https://lnkd.in/dZ3_4Dkb
-- 🔹 Build AI apps with GPT wrappers: https://lnkd.in/dUf7gj7z
-- 🔹 Agentic RAG with LlamaIndex: https://lnkd.in/dvY3nzNx
-- 🔹 Agent memory: https://lnkd.in/dfm_YPWa
-- 🔹 Fundamentals of AI agents using RAG and LangChain: https://lnkd.in/dTvBKJGJ
-- 🔹 AI agentic design patterns with AutoGen: https://lnkd.in/dU8dxuJp
-- 🔹 Multi AI agent systems with crewAI: https://lnkd.in/dQiQajaC
-- 🔹 AI agents in LangGraph: https://lnkd.in/dyeWMa72
-- 🔹 AI Python for beginners: https://lnkd.in/dFpn5j7U  
+  
 ---
 ## AI Glossary for Non-Technical Managers
 
