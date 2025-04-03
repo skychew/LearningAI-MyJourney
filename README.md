@@ -42,26 +42,26 @@ I have a habit of putting things in boxes to simplifying learning. Here is my at
 
 ## Building Your Own AI Agents
 - [Anthropic: Building Effective Agents](https://www.anthropic.com/research/building-effective-agents)
-- [My Summary for Non-Tech Managers](https://skychew.com/anthropic-building-effective-agents-summary-for-non-tech-managers/)
+-- [My Summary for Non-Tech Managers](https://skychew.com/anthropic-building-effective-agents-summary-for-non-tech-managers/)
 - [Awesome AI Agents, RAGS, LLMs](https://github.com/Shubhamsaboo/awesome-llm-apps?tab=readme-ov-file) - A curated collection of awesome LLM apps built with RAG and AI agents. This repository features LLM apps that use models from OpenAI, Anthropic, Google, and open-source models like DeepSeek, Qwen or Llama that you can run locally on your computer.
 - [https://block.github.io/goose/](https://block.github.io/goose/) - Your on-machine AI agent, automating engineering tasks seamlessly. Customize goose with your preferred LLM and enhance its capabilities by connecting it to any external MCP server or API. Made by Twitter ex-founders.
 - [https://pinokio.computer/](https://pinokio.computer/) - ​Pinokio is a specialized browser designed to simplify the installation, execution, and management of various applications on your computer.
 - [https://huggingface.co/](https://huggingface.co/)
-  
-### **Key Questions Answered:**
-- How do AI agents differ from traditional automation?
- How do they align with business processes?
-- What operational gaps can AI agents address?
-- What are the hidden costs of AI adoption?
-- How can we ensure ethical AI deployment?
-- What KPIs indicate effective AI agent integration?
-- How will AI agents evolve in 3-5 years?
 
-### **Insights Provided:**
-- Identifying automation-worthy processes
-- Matching implementation patterns to business needs
-- Building human-AI collaboration frameworks
-- Establishing continuous improvement metrics
+### GenAI & RAG ([Source](https://www.linkedin.com/posts/jimmyacton_2025-is-the-year-of-ai-agents-and-there-activity-7312356729273397249-hU1j?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAo_Z8oBSo7gQNXstuCb6-dhbGls4EPM9e4))
+Here is a powerful collection of free resources to help you dive into AI agents 👇
+
+- 🔹 Generative AI for everyone: https://lnkd.in/d8kGVA29
+- 🔹 Getting started with LLMs: https://lnkd.in/dJ-dJY2q
+- 🔹 Prompt engineering for VLMS: https://lnkd.in/dZ3_4Dkb
+- 🔹 Build AI apps with GPT wrappers: https://lnkd.in/dUf7gj7z
+- 🔹 Agentic RAG with LlamaIndex: https://lnkd.in/dvY3nzNx
+- 🔹 Agent memory: https://lnkd.in/dfm_YPWa
+- 🔹 Fundamentals of AI agents using RAG and LangChain: https://lnkd.in/dTvBKJGJ
+- 🔹 AI agentic design patterns with AutoGen: https://lnkd.in/dU8dxuJp
+- 🔹 Multi AI agent systems with crewAI: https://lnkd.in/dQiQajaC
+- 🔹 AI agents in LangGraph: https://lnkd.in/dyeWMa72
+- 🔹 AI Python for beginners: https://lnkd.in/dFpn5j7U  
 
 ---
 ## Building AI-Powered Web Apps
