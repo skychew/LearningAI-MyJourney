@@ -93,7 +93,7 @@ The retailer Old Navy is partnering with Radar, a tech company that uses RFID, A
 ---
 ## Hardware
 - Raspberry PI AI HAT+
-  
+
 ---
 ## AI Glossary for Non-Technical Managers
 
@@ -119,6 +119,7 @@ The retailer Old Navy is partnering with Radar, a tech company that uses RFID, A
 - **Natural Language Processing (NLP)** – AI understanding and responding to human language.
 - **Computer Vision** – AI analyzing visual information from images/videos.
 - **Reinforcement Learning (RL)** – AI learning by trial and error.
+- **Temperature** – A setting that controls the randomness and creativity of AI responses. Lower temperature (e.g., 0.2) leads to more predictable and consistent outputs, while higher temperature (e.g., 1.0+) allows for more diverse and imaginative results, with potential trade-offs in accuracy.
 
 ### **4. AI Automation & Autonomous Agents**
 - **Autonomous Agents** – AI that acts independently to complete tasks.
@@ -135,7 +136,7 @@ The retailer Old Navy is partnering with Radar, a tech company that uses RFID, A
 - **Bias in AI** – AI producing skewed results due to training data imbalances.
 - **Hallucination (in AI)** – AI generating misleading or incorrect responses.
 - **AI Ethics** – Ensuring responsible AI use.
-- **Adversarial Attacks** – Manipulating AI by feeding it misleading data. 
+- **Adversarial Attacks** – Manipulating AI by feeding it misleading data.
 
 ---
 More updates coming soon!
