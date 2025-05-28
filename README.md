@@ -22,6 +22,9 @@ Starting with glossary helps.
 - but if you still prefer to use a tool
 - [prompt-genie.com](https://www.prompt-genie.com/)
 
+## AI Agents built with Powerful Prompts
+- [https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
+
 ### LLMs
 - [But what is a neural network? (3Blue1Brown)](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) (Intro to LLMs, covers up to GPT-3)
 
