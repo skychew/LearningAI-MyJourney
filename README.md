@@ -43,6 +43,7 @@ I have a habit of putting things in boxes to simplifying learning. Here is my at
 - [https://skychew.com/ai-ecosystem-list/](https://skychew.com/ai-ecosystem-list/)
 - [https://aitoolsdirectory.com/](https://aitoolsdirectory.com/)
 - Multiple AI - [https://www.ninjachat.ai/](https://www.ninjachat.ai/)
+- Task Agent - [https://runner.hcompany.ai/](https://runner.hcompany.ai/)
 
 ---
 
